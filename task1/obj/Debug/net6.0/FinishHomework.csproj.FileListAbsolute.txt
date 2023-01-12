@@ -1,0 +1,15 @@
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\FinishHomework\bin\Debug\net6.0\FinishHomework.exe
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\FinishHomework\bin\Debug\net6.0\FinishHomework.deps.json
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\FinishHomework\bin\Debug\net6.0\FinishHomework.runtimeconfig.json
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\FinishHomework\bin\Debug\net6.0\FinishHomework.dll
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\FinishHomework\bin\Debug\net6.0\FinishHomework.pdb
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\FinishHomework\obj\Debug\net6.0\FinishHomework.csproj.AssemblyReference.cache
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\FinishHomework\obj\Debug\net6.0\FinishHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\FinishHomework\obj\Debug\net6.0\FinishHomework.AssemblyInfoInputs.cache
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\FinishHomework\obj\Debug\net6.0\FinishHomework.AssemblyInfo.cs
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\FinishHomework\obj\Debug\net6.0\FinishHomework.csproj.CoreCompileInputs.cache
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\FinishHomework\obj\Debug\net6.0\FinishHomework.dll
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\FinishHomework\obj\Debug\net6.0\refint\FinishHomework.dll
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\FinishHomework\obj\Debug\net6.0\FinishHomework.pdb
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\FinishHomework\obj\Debug\net6.0\FinishHomework.genruntimeconfig.cache
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\FinishHomework\obj\Debug\net6.0\ref\FinishHomework.dll
